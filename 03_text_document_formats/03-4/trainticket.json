@@ -1,0 +1,14 @@
+{
+    "ticketID": "123456789",
+    "passengerName": "Adam Kowalski",
+    "departureStation": "Warszawa Centralna",
+    "arrivalStation": "Kraków Główny",
+    "departureTime": "2024-12-01 08:30",
+    "arrivalTime": "2024-12-01 11:15",
+    "trainNumber": 1234,
+    "seatNumber": "12A",
+    "1st_class": false,
+    "price": 120.50,
+    "currency": "PLN",
+    "isRefundable": true
+}
