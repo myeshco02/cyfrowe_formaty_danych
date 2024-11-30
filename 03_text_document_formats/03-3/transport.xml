@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<means_of_transport>
+    <vehicle type="airplane">
+        <brand>Cessna</brand>
+        <model>152</model>
+        <fuel>AKI91</fuel>
+        <MTOW unit="kg">757</MTOW>
+        <pax>2</pax>
+    </vehicle>
+
+    <vehicle type="airplane">
+        <brand>Cessna</brand>
+        <model>172M</model>
+        <fuel>AVGas</fuel>
+        <MTOW unit="kg">1150</MTOW>
+        <pax>4</pax>
+    </vehicle>
+
+    <vehicle type="car">
+        <brand>Volkswagen</brand>
+        <model>Jetta</model>
+        <fuel>Petrol E10</fuel>
+        <pax>5</pax>
+    </vehicle>
+</means_of_transport>
