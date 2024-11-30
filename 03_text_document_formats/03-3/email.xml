@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mail id="101">
+    <people>
+        <sender>Sender</sender>
+        <recipient>Recipient</recipient>
+    </people>
+
+    <subject>Hello World</subject>
+
+    <body>
+    This is the body of the message
+    </body>
+</mail>
