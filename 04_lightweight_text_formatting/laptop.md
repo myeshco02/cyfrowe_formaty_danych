@@ -1,6 +1,6 @@
 # Laptop markdown file
 
-[SEE MORE] (https://en.wikipedia.org/wiki/Laptop)
+[SEE MORE](https://en.wikipedia.org/wiki/Laptop)
 
 ### Definition
 
@@ -38,11 +38,11 @@ In general, laptop components are not intended to be replaceable or upgradable b
 
 2. CPU 
 
-   [See more] (https://en.wikipedia.org/wiki/Central_processing_unit)
+   [See more](https://en.wikipedia.org/wiki/Central_processing_unit)
 
 3. GPU
 
-   [See more] (https://en.wikipedia.org/wiki/Graphics_processing_unit)
+   [See more](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
 4. RAM
 
