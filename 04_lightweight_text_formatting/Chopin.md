@@ -1,6 +1,6 @@
 # Fredereic Chopin
 
-![Frederic Chopin photo](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_photo.jpeg#/media/File:Frederic_Chopin_photo.jpeg)
+![Chopin Portrait](https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg)
 
 ### Quick insight
 
