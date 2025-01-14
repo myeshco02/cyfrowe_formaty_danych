@@ -1,0 +1,36 @@
+<table>
+    <thead>
+        <tr>
+            <th>Field</th>
+            <th>Application</th>
+            <th>Example</th>
+            <th>Impact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Natural Language Processing</td>
+            <td>Chatbots</td>
+            <td>ChatGPT</td>
+            <td>Improves customer service efficiency</td>
+        </tr>
+        <tr>
+            <td>Computer Vision</td>
+            <td>Healthcare</td>
+            <td>Medical Imaging</td>
+            <td>Enhances diagnostic accuracy</td>
+        </tr>
+        <tr>
+            <td>Machine Learning</td>
+            <td>Finance</td>
+            <td>Fraud Detection</td>
+            <td>Reduces financial losses</td>
+        </tr>
+        <tr>
+            <td>Reinforcement Learning</td>
+            <td>Robotics</td>
+            <td>Autonomous Vehicles</td>
+            <td>Enables self-driving technology</td>
+        </tr>
+    </tbody>
+</table>
