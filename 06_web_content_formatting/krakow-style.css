@@ -1,0 +1,47 @@
+thead {
+    background-color: #124426;
+    color: gainsboro;
+}
+
+td{
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: #20b3a734; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-color: rgba(26, 60, 70, 0.719);
+    border-style: solid;
+    border-width: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(7, 59, 51);
+}
+
+#landmark-column {
+    width: 25%;
+}
+
+#year-column {
+    width: 15%;
+}
+
+#style-column {
+    width: 20%;
+}
+
+#significance-column {
+    width: 40%;
+}
+
+h2{
+    color:rgb(255, 245, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding: 10px;
+    background-color:darkslategray;
+}
