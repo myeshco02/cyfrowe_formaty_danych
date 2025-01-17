@@ -1,0 +1,116 @@
+/* Set the font and text alignment for the document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #d3d3d3;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #1c2f41;
+}
+
+/* Add background colors to the section titles */
+h2 {
+    background-color: #3d3e55;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Style the tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Change the width of the form inputs */
+input[type="text"],
+input[type="email"],
+input[type="date"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+    background-color: #11215a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(173, 196, 230);
+}
+
+/* Style the links */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #aac3fc;
+    text-decoration: underline;
+}
+
+/* Add borders to images or sections */
+img {
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+section {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Change the text color for different sections */
+#grand-canyon {
+    color: rgb(15, 43, 15);
+}
+
+#great-barrier-reef {
+    color: rgb(23, 23, 114);
+}
+
+#mount-everest {
+    color: rgb(92, 91, 91);
+}
